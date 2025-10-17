@@ -29,7 +29,7 @@ public class Principal {
         //Impressao de metodo: imprime o metodo carro1.mostrarinfo()
         System.out.println(carro1.mostrarinfo());
 
-
+        //Para todo o resto, segue o mesmo sentido.
         //Carro2
         Carro carro2 = new Carro();
         carro2.numeroCarro = "Carro 2";
